@@ -1,0 +1,18 @@
+body {
+  font-size:14px;
+}
+
+.btn {
+  font-size:14px;
+}
+
+button.nav-link {
+  padding-top:14px;
+  padding-bottom:15px;
+  border:none;
+}
+
+.nav-item {
+  padding-left: 10px;
+  padding-right: 10px;
+}
